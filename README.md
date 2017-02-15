@@ -6,3 +6,4 @@ Challenges JavaScript
  3. https://jsfiddle.net/Andres84/Lamvwh2k/
  4. https://jsfiddle.net/Andres84/xt69cqcw/
  5. https://jsfiddle.net/Andres84/ybwoqy9h/
+ 6. https://jsfiddle.net/Andres84/1gmrqnjk/
