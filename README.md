@@ -15,3 +15,4 @@ Challenges JavaScript
  12. https://jsfiddle.net/Andres84/7hzv1tv9/  Create n boxes  box width < viewport width
  13. https://fiddle.jshell.net/ey4dsehv/
  14. https://fiddle.jshell.net/ymugtg37/
+ 15. https://fiddle.jshell.net/btf11aa3/
