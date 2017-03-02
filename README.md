@@ -17,3 +17,4 @@ Challenges JavaScript
  14. https://fiddle.jshell.net/ymugtg37/ 
  15. https://fiddle.jshell.net/btf11aa3/ 
  16. https://fiddle.jshell.net/xn91Lb4n/2/
+ 17. https://fiddle.jshell.net/xn91Lb4n/7/
